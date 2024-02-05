@@ -3,7 +3,11 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Engineered a dynamic Active Directory home lab environment utilizing VMWare, strategically deploying a Microsoft Server as the foundation for Active Directory operations. Orchestrated the configuration of a Domain Controller to establish and manage a fully functional domain, showcasing adeptness in system architecture and virtualization.
+
+Implemented a meticulously crafted PowerShell script to automate the seamless creation of 1000+ users within the Active Directory framework. Executed end-to-end testing by logging into newly generated accounts on a client machine, leveraging the established domain to connect to the internet.
+
+This project not only highlighted technical prowess in utilizing Microsoft Server 2019 and Windows 10 Enterprise ISOs but also showcased the ability to streamline complex processes, mirroring a realistic business environment. A tangible demonstration of skills in system integration, scripting, and virtualization.
 <br />
 
 
