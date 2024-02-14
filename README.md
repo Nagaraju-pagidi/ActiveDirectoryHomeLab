@@ -36,7 +36,7 @@ This project not only highlighted technical prowess in utilizing Microsoft Serve
 
 <b>The network diagram I'll be using for this project</b> <br/>
 
-<img src="https://imgur.com/zER543g" height="80%" width="80%" alt="archirecture"/>
+<img src="https://github.com/Nagaraju-pagidi/ActiveDirectoryHomeLab/blob/main/AD%20arcitecture%20%5BMConverter.eu%5D.jpg" height="80%" width="80%" alt="archirecture"/>
 <br />
 <br />
 <br/>
