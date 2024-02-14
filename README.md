@@ -40,6 +40,8 @@ This project not only highlighted technical prowess in utilizing Microsoft Serve
 <br />
 <br />
 <br/>
+<b>Install and open VM machine . in this case i have used oracle VM machine. and after successfull installations it open like this. 
+ next click on thee add new vm or  press ctrl+N .</b> <br/>
 <img src="https://imgur.com/klNy48N" height="80%" width="80%" alt="Configuring the Network Adapter for the Domain Controller Virtual Machine"/>
 <br />
 <br />
