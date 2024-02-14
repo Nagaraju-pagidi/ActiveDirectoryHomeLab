@@ -29,16 +29,18 @@ This project not only highlighted technical prowess in utilizing Microsoft Serve
 <h2 align="center">Program walk-through</h2>
 
 <p align="center">
+
+<br />
+<br />
+<b>1. To set up my Domain Controller's virtual machine effectively, I'll need to configure two network adapters. The first adapter will utilize NAT, allowing it to access the internet using my home router's IP address as assigned by the host. The second adapter will be configured for an Internal Network, specifically using VMnet0, enabling communication between the Domain Controller and other virtual machines within the same network. This setup ensures both internet connectivity and seamless interaction within the virtual environment, as illustrated in the provided diagram.</b> <br/>
+
 <b>The network diagram I'll be using for this project</b> <br/>
-<img src="https://i.imgur.com/IfxvoYS.png" height="80%" width="80%" alt="Network Diagram"/>
-<br />
-<br />
-<b>For the Virtual Machine that will be hosting my Domain Controller, I need two network adapters. I need the NAT that will use my host IP address from my home router and an Internal Network Adapter so that my DC can communicate with other Virtual Machines. For the Internal Network I will be using VMnet0. Refer to the diagram at the beginning</b> <br/>
-<img src="https://i.imgur.com/UHBjxOd.jpg" height="80%" width="80%" alt="Configuring the Network Adapter for the Domain Controller Virtual Machine"/>
+
+<img src="https://imgur.com/zER543g" height="80%" width="80%" alt="archirecture"/>
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/7CLcFGU.jpg" height="80%" width="80%" alt="Configuring the Network Adapter for the Domain Controller Virtual Machine"/>
+<img src="https://imgur.com/klNy48N" height="80%" width="80%" alt="Configuring the Network Adapter for the Domain Controller Virtual Machine"/>
 <br />
 <br />
 <b>After downloading Windows Server 2019 on the Virtual Machine the first thing I have to do is configure the two network Adapters I have. One is the external NIC and one is the Internal NIC</b> <br/>
